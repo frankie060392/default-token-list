@@ -48,6 +48,14 @@
     "symbol": "TRX"
   },
   {
+    "address": "0x1b75d1db07059b5a05a981f62e57bf7445948e5c",
+    "chainId": 2484,
+    "decimals": 18,
+    "logoURI": "https://u2u-images.s3.ap-southeast-1.amazonaws.com/amm/2484/0x1b75d1db07059b5a05a981f62e57bf7445948e5c.png",
+    "name": "TRX",
+    "symbol": "TRX"
+  },
+  {
     "name": "U2W",
     "address": "0x006db638881cff205e60ee174d2def83f1835628",
     "symbol": "U2W",
